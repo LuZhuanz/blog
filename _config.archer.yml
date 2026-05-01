@@ -184,7 +184,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # Favicon
-favicon: /assets/favicon.ico
+favicon: /assets/favicon-v2.ico
 # Post copyright
 copyright:
   enable: true
